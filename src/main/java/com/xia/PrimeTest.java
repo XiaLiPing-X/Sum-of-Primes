@@ -1,4 +1,4 @@
-package com.bank;
+package com.xia;
 
 public class PrimeTest {
     public static void main(String[] args) {

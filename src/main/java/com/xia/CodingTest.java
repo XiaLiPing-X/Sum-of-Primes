@@ -1,4 +1,4 @@
-package com.bank;
+package com.xia;
 
 import java.util.Scanner;
 
